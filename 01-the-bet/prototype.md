@@ -7,10 +7,10 @@ A product that allows the customer to use a AI agent to reserve a rental car.
 Lovable 
 
 ## Prototype Link
-[
-](https://roam-and-reserve-ai.lovable.app)
+(https://roam-and-reserve-ai.lovable.app)
+
 ## AI Value Archetype
-Copilot 
+Copilot
 
 ## The Bet in One Sentence
 Some customers will prefer to use an AI agent to find and book the right rental vechicle for their needs. 
