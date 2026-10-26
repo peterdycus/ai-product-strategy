@@ -1,7 +1,7 @@
 # Three-Axis Vulnerability Diagnostic
 
 ## Product
-AI powered vehicle rental creator
+AI powered vehicle rental reservaation creator
 **Product:** Enterprise.com vehicle rental site 
 **Your Role:** PPM 
 
@@ -10,9 +10,13 @@ AI powered vehicle rental creator
 
 ## Three-axis scores (1-5)
 - **Contextual Moat:** 4
+- Rationale: Rental data and integration ares proprietary.
+- Attacker: Hertz, Avis, LLMs
 - **Data Advantage:** 4
+- Rationale: Rental data and integration ares proprietary
+- Attacker: Hertz, Avis, LLMs
 - **Platform Exposure:** 2 *(1 = very exposed, 5 = well protected)*
-
+- AI LLM can easily if we give them the data or find solution to get the data themselves. 
 ## Composite
 - **Sum:** 10 / 15
 - **Band:** Moderate, Some protection, but cracks exist.
