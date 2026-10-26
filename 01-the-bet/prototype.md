@@ -1,19 +1,19 @@
 # The Prototype Bet
 
 ## What I Built
-<!-- One sentence: what does this prototype demonstrate? -->
+A product that allows the customer to use a AI agent to reserve a rental car. 
 
 ## Tool Used
-<!-- v0 / Cursor / Lovable / other -->
+Lovable 
 
 ## Prototype Link
 <!-- Paste the shareable URL -->
 
 ## AI Value Archetype
-<!-- Automator / Copilot / Oracle / Creator / Orchestrator -->
+Copilot 
 
 ## The Bet in One Sentence
-<!-- What you're building, for whom, why now -->
+Some customers will prefer to use an AI agent to find and book the right rental vechicle for their needs. 
 
 ## Kill Criteria
-<!-- When would you stop? What evidence would kill this bet? -->
+If adoption is below 20% in first four months, kill or pivot. 
