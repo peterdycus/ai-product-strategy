@@ -1,44 +1,26 @@
 # Three-Axis Vulnerability Diagnostic
 
 ## Product
-<!-- Name the product you're diagnosing. Real product at your company — not a hypothetical. -->
-
-**Product:**
-**Your Role:**
-
----
-
-## Scores
-
-### Contextual Moat — __/5
-*Workflow depth × switching cost. Would users leave in a weekend if a competitor showed up?*
-
-**Score rationale:**
-
-**Named attacker (from partner challenge):**
+AI powered vehicle rental creator
+**Product:** Enterprise.com vehicle rental site 
+**Your Role:** PPM 
 
 ---
+# Vulnerability Scorecard, Module 1
 
-### Data Advantage — __/5
-*Proprietary signal that compounds with usage. What do you see that OpenAI doesn't?*
+## Three-axis scores (1-5)
+- **Contextual Moat:** 4
+- **Data Advantage:** 4
+- **Platform Exposure:** 2 *(1 = very exposed, 5 = well protected)*
 
-**Score rationale:**
+## Composite
+- **Sum:** 10 / 15
+- **Band:** Moderate, Some protection, but cracks exist.
+- **Your crack (lowest axis):** Platform Exposure
 
-**Named attacker (from partner challenge):**
-
----
-
-### Platform Exposure — __/5
-*Encroachment risk × pivot speed. If Apple/Google/OpenAI ships your hero feature native — then what?*
-
-**Score rationale:**
-
-**Named attacker (from partner challenge):**
+## Competitor pressure
+- **Could exploit weakest axis:** Muse
 
 ---
+*Carries forward to M2 (Flywheel Scorer).*
 
-## Top Vulnerability
-<!-- One line: what's the single biggest strategic risk? -->
-
-## Confidence Level
-<!-- H / M / L — how confident are you in this bet after the diagnostic? -->
