@@ -61,8 +61,8 @@
 *Your partner played the Big Tech attacker. What was their plan to kill you?*
 
 **Attacker:**
-**Attack vector (target the weakest loop):**
-**Weeks 1-4 - what they ship:**
-**Weeks 5-8 - how they poach users:**
-**Weeks 9-12 - why users don't come back:**
-**Your defense:**
+**Attack vector (target the weakest loop):** Correction Loop 
+**Weeks 1-4 - what they ship:** Improve users being able to correct responses. 
+**Weeks 5-8 - how they poach users:** loyal points for using the 
+**Weeks 9-12 - why users don't come back:** 
+**Your defense:** 
