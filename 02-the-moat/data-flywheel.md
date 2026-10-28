@@ -37,22 +37,22 @@
 ## Encroachment Threat Assessment
 
 ### 1. Platform Encroachment
-**Attacker:**
-**Vector:**
-**Time-to-threat:**
-**% of value at risk:**
+**Attacker:** Muse 
+**Vector:** Able to add to it platform easily. May put competitors first.   
+**Time-to-threat:** 1 years 
+**% of value at risk:** 50%
 
 ### 2. Vertical Competitor
-**Attacker:**
-**Vector:**
-**Time-to-threat:**
-**% of value at risk:**
+**Attacker:** Hertz 
+**Vector:** Can create their proprietary IA reservation creator. Can take away some marketshare over time. 
+**Time-to-threat:** 2 years
+**% of value at risk:** 50%
 
 ### 3. Adjacent Expansion
-**Attacker:**
-**Vector:**
-**Time-to-threat:**
-**% of value at risk:**
+**Attacker:** Expedia 
+**Vector:** Can create their proprietary IA reservation creator. May put competitors first. 
+**Time-to-threat:** 2 years
+**% of value at risk:** 50%
 
 ---
 
