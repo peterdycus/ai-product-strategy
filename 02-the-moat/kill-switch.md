@@ -1,19 +1,16 @@
-# Kill Switch Audit
+Kill Switch Audit, Module 2
 
-## Vendor Dependency Assessment
+CURRENT SETUP
+Primary provider: OpenAI
+Integration depth: Direct API calls
+Time to switch today: 1 year
 
-| Dimension | Current State | Risk Level | 48-Hour Action |
-|-----------|--------------|------------|---------------|
-| **Provider** | | H / M / L | |
-| **Abstraction** | | H / M / L | |
-| **Routing** | | H / M / L | |
-| **Eval** | | H / M / L | |
+STRESS TEST
+If pricing doubles: the business model is impacted 
+If ToS restricts use case: do a risk assessment. consider poviting or killing if risk is great - considering building our own or another LLM
+Risk level (from integration): High risk
 
-## Portability Score
-<!-- Ready / Partial / Locked -->
-
-## If [primary vendor] doubles pricing tomorrow:
-<!-- What's your 48-hour response? -->
-
-## If [primary vendor] ships a competing product:
-<!-- What's defensible that they can't replicate? -->
+THREE ACTIONS
+This week: lock down a pricing and level of change in a contract
+This month: understand LLMs roadmap so we can evolve with them
+This quarter: performance retrospective and planning for future quarters.
