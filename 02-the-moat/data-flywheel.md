@@ -16,7 +16,7 @@
 **What you capture today:**
 **How it compounds:**
 
-### Preference Loop - 3/5
+### Preference Loop - 2/5
 **What you capture today:**
 **How it compounds:**
 
@@ -28,7 +28,7 @@
 **What you capture today:**
 **How it compounds:**
 
-**Total Flywheel Score: 19/20**
+**Total Flywheel Score: 10/20**
 **Weakest Loop:** Correction Lop
 **Fix for weakest loop:**
 
@@ -63,6 +63,6 @@
 **Attacker:**
 **Attack vector (target the weakest loop):** Correction Loop 
 **Weeks 1-4 - what they ship:** Improve users being able to correct responses. 
-**Weeks 5-8 - how they poach users:** loyal points for using the 
-**Weeks 9-12 - why users don't come back:** 
+**Weeks 5-8 - how they poach users:** loyal points for using the AI reservation creator 
+**Weeks 9-12 - why users don't come back:** improve the preference loop 
 **Your defense:** 
