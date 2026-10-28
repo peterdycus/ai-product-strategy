@@ -16,7 +16,8 @@ AI powered vehicle rental reservaation creator
 - Rationale: Rental data and integration ares proprietary
 - Attacker: Hertz, Avis, LLMs
 - **Platform Exposure:** 2 *(1 = very exposed, 5 = well protected)*
-- AI LLM can easily if we give them the data or find solution to get the data themselves. 
+- AI LLM can easily if we give them the data or find solution to get the data themselves.
+- Attacker: Hertz, Avis, LLMs
 ## Composite
 - **Sum:** 10 / 15
 - **Band:** Moderate, Some protection, but cracks exist.
