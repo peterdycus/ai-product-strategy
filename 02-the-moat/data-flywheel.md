@@ -12,24 +12,24 @@
 | **Domain Context** | Does usage in one area improve quality in adjacent areas? | Siloed | Cross-domain transfer | __/5 |
 | **Network** | Does each new user / team make the product better for everyone? | Isolated | Strong network effects | __/5 |
 
-### Correction Loop - __/5
+### Correction Loop - 4/5
 **What you capture today:**
 **How it compounds:**
 
-### Preference Loop - __/5
+### Preference Loop - 5/5
 **What you capture today:**
 **How it compounds:**
 
-### Domain Context Loop - __/5
+### Domain Context Loop - 5/5
 **What you capture today:**
 **How it compounds:**
 
-### Network Loop - __/5
+### Network Loop - 5/5
 **What you capture today:**
 **How it compounds:**
 
-**Total Flywheel Score: __/20**
-**Weakest Loop:**
+**Total Flywheel Score: 19/20**
+**Weakest Loop:** Correction Lop
 **Fix for weakest loop:**
 
 ---
@@ -66,19 +66,3 @@
 **Weeks 5-8 - how they poach users:**
 **Weeks 9-12 - why users don't come back:**
 **Your defense:**
-
-
-Data Flywheel Scorer, Module 2
-
-SCORES
-- Corrections Loop: 4/5
-- Preferences Loop: 5/5
-- Domain Context Loop: 5/5
-- Network Loop: 5/5
-
-Total: 19/20
-
-Readout: Strong flywheel. Focus on compounding speed.
-
-Weakest loop: Corrections Loop (4/5)
- 
