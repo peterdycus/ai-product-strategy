@@ -17,7 +17,7 @@ AI powered vehicle rental reservaation creator
 - Attacker: Hertz, Avis, LLMs
 - **Platform Exposure:** 2 *(1 = very exposed, 5 = well protected)*
 - AI LLM can easily if we give them the data or find solution to get the data themselves.
-- Attacker: Hertz, Avis, LLMs
+- Attacker: Hertz, Avis, LLMs - Muse, ChatGPT, Claude, etc
 ## Composite
 - **Sum:** 10 / 15
 - **Band:** Moderate, Some protection, but cracks exist.
