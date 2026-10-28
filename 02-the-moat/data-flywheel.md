@@ -66,3 +66,19 @@
 **Weeks 5-8 - how they poach users:**
 **Weeks 9-12 - why users don't come back:**
 **Your defense:**
+
+
+Data Flywheel Scorer, Module 2
+
+SCORES
+- Corrections Loop: 4/5
+- Preferences Loop: 5/5
+- Domain Context Loop: 5/5
+- Network Loop: 5/5
+
+Total: 19/20
+
+Readout: Strong flywheel. Focus on compounding speed.
+
+Weakest loop: Corrections Loop (4/5)
+ 
