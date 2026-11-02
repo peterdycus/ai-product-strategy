@@ -25,21 +25,12 @@
 **Proposed AI pricing:** $0 
 **Model:** hybrid 
 
-## Stress Tests
-
-| Scenario | Impact on Margin | Response |
-|----------|-----------------|----------|
-| Inference costs 3x | | |
-| Heaviest segment doubles | | |
-| Model provider raises prices 50% | | |
-
 ## Board One-Pager
 <!-- Before/After: Old SaaS revenue vs. AI usage revenue for your product -->
 
 **Before (traditional SaaS):**
 **After (AI-enabled):**
 **Net margin shift:**
-
 
 
 # Margin Calculator, Module 3
