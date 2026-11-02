@@ -65,4 +65,4 @@
 **Weeks 1-4 - what they ship:** Improve users being able to correct responses. 
 **Weeks 5-8 - how they poach users:** loyal points for using the AI reservation creator 
 **Weeks 9-12 - why users don't come back:** improve the preference loop 
-**Your defense:** 
+**Your defense:** Making the product more customizable and personalized will increase repeat usage and rental bookings.
