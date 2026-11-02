@@ -16,8 +16,8 @@
 
 **Triage model:**
 **Frontier model:**
-**Routing rule:**
-**Expected cascade ratio:**
+**Routing rule:** 80% / 20% 
+**Expected cascade ratio:** 80 % 
 
 ## Pricing Model
 
