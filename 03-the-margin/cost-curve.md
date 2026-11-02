@@ -21,9 +21,9 @@
 
 ## Pricing Model
 
-**Current pricing:**
-**Proposed AI pricing:**
-**Model:** seat-based / usage-based / outcome-based / hybrid
+**Current pricing:** $0 
+**Proposed AI pricing:** $0 
+**Model:** hybrid 
 
 ## Stress Tests
 
@@ -39,3 +39,25 @@
 **Before (traditional SaaS):**
 **After (AI-enabled):**
 **Net margin shift:**
+
+
+
+# Margin Calculator, Module 3
+
+## Inputs
+- Avg requests/user/month: 40000
+- Blended cost/request: $0.02
+- Revenue/user/month: $750
+- Non-AI COGS/user/month: $5
+
+## Current Margin
+- AI COGS/user: $800.00
+- Total COGS/user: $805.00
+- Gross margin: -7.3% ($-55.00/user)
+
+## Stress Test
+| Scenario | AI COGS | Margin |
+|----------|---------|--------|
+| 3x Cost  | $2400.00 | -220.7% ($-1655.00) |
+| 2x Usage | $1600.00 | -114.0% ($-855.00) |
+
