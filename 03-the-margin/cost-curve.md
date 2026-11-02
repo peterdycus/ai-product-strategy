@@ -61,3 +61,18 @@
 | 3x Cost  | $2400.00 | -220.7% ($-1655.00) |
 | 2x Usage | $1600.00 | -114.0% ($-855.00) |
 
+
+Pricing Strategy Block, Module 3
+
+Pricing Strategy
+- Strategy posture: Penetrate
+- Pricing model: Hybrid (base + usage)
+- Unit of work metered: vechical rental booked
+- Base fee ($/month): 0
+- Price per unit: $0
+- Estimated units/user/month: 0
+- Implied revenue/user/month: $0.00
+
+Decision Note
+Why this pricing structure fits the buyer and the value delivered: ·
+
