@@ -45,12 +45,23 @@ Dataset health
 
 ## Reliability Contract
 
+## Reliability Contract
+
 | Metric | Target | Measurement | Alert Threshold |
 |--------|--------|-------------|-----------------|
-| Accuracy | | | |
-| Hallucination rate | | | |
-| Latency (p95) | | | |
-| Drift velocity | | | |
+| Accuracy | 90% | Weekly evaluation of golden rows. uses LLM as judges. HITL if below 85%. | 85% → route to human review queue |
+| Hallucination rate | <1% | Same weekly run of golden rows. If hallicination rate is lower than 2% roll back. | >2% → auto-rollback to last good model |
+| Latency (p95) | <500 ms | Continuous monitor data log. | >1200 ms → auto-rollback to last good model |
+| Drift velocity | <0.5%/4w | Evaluate on a rolling four week cycle. If drift is lower that 1%. Gold-set audit. | >1%/4W investigate → trigger gold-set audit |
+
+## HITL Architecture
+
+**Trigger:** Confidence is less than 50%
+
+**Reviewer:** PM or Engineer
+
+**Feedback loop:** The PM or Engineer corrects the issue identified in the evaluation findings. This could be update the golden data set.
+
 
 ## HITL Architecture
 <!-- When does a human step in? What's the escalation path? -->
