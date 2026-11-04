@@ -25,13 +25,23 @@ Dataset health
 
 ## Confidence UX Design
 
-**Approach:** show uncertainty / tiered confidence / human-in-loop trigger
+## Confidence UX Design
 
-**High confidence (>90%):**
-**Medium confidence (70-90%):**
-**Low confidence (<70%):**
+**Approach:** Tiered confidence with human-in-loop when not confident <50%
 
-**User control surface:**
+**Confident (>90%):** provides full answer and show process that led to full example. user is prompted to answer the next question and/or accept, reject request
+
+**Uncertain (50-90%):** Soften the language and ask for additional details improve the confidence.
+
+**Not confident (<50%):** Unable to generate answer with confidence. Connect with a human to help the customer.
+
+**User control surface:** 
+
+- Users adjust the confidence threshold
+- Users see AI reasoning / drivers
+- Corrections feed back into the model / dataset
+- Users correct & override outputs _(not yet)_
+
 
 ## Reliability Contract
 
