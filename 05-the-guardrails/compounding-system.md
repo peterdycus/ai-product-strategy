@@ -4,15 +4,20 @@
 
 | Loop | Input | Output | Compounds? | Status |
 |------|-------|--------|-----------|--------|
-| | | | Y/N | active / broken / missing |
-| | | | Y/N | active / broken / missing |
-| | | | Y/N | active / broken / missing |
+| Recursive Learning | user corrects a location | learns and modifies the location | Y | broken |
+| Cross-Domain Transfer | user corrects a vehicle  type | saves vehicle type is added  in user preference | N | broken |
+| Network Intelligence | user corrects a location | location data is put in alert queue to fix or investigate | N | active |
 
-**Broken loop identified by partner:**
-**Fix plan:**
+**Broken loop identified by partner:** Recursive Learning may end up creating an inaccurate location 
+**Fix plan:** When the location is correct by the user and does match the golden data set, send an alert to investigate. 
 
 ## Context Connectivity
 <!-- How does knowledge flow across teams and domains? Where does it silo? -->
+
+**How knowledge flows:** IA chat location > Alerts queue 
+
+**Where it silos:** location and vehicle data storage in user preferences 
+
 
 ## Governance Policy
 
