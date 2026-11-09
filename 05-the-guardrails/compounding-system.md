@@ -32,12 +32,38 @@
 
 ## Shadow AI Audit
 
-| Tool | Owner | Risk Level | Decision |
-|------|-------|-----------|----------|
-| | | H / M / L | keep / govern / kill |
-| | | H / M / L | keep / govern / kill |
-| | | H / M / L | keep / govern / kill |
+Shadow AI Audit (user-side), Module 5
 
-**Total tools found:**
-**Tools after triage:**
-**Estimated hidden spend:**
+## Discover, User-Side Workarounds
+- user wants to be picked up | source: Support ticket | signal: Workflow gap | freq: L | spend: $0/mo | decision: Partner
+- user wants adaptive equipment | source: Support ticket | signal: Workflow gap | freq: L | spend: $0/mo | decision: Build
+- user has feeback on their experience  | source: Support ticket | signal: Workflow gap | freq: L | spend: $0/mo | decision: Partner
+
+## Pattern Assessment
+- Workarounds found: 3
+- Build candidates: 1
+- Partner candidates: 2
+- Ignore decisions: 0
+- Adjacent spend: $0/mo
+- Dominant signal: Workflow gap
+
+## Action Plan
+### Build
+user wants adaptive equipment
+
+### Partner
+user wants to be picked up and  has feedback 
+
+### Ignore + Monitor
+None 
+
+## Roadmap Brief
+Based on your audit: 3 user-side workarounds discovered.
+Decisions: 1 build · 2 partner · 0 ignore · 0 TBD.
+Estimated adjacent spend: $0/mo across surveyed users.
+Dominant signal: Workflow gap.
+
+Recommended next step: Workflow gaps dominate, your users are stitching your product into multi-step pipelines. Strongest near-term move is partner integrations with the AI tools they already chain in.
+
+Sequence the Build column by frequency × strategic relevance. Confirm Partner candidates with the external tools' partnership teams. Re-run this audit each quarter, workarounds shift fast.
+
