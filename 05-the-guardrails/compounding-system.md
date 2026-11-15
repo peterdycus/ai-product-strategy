@@ -21,11 +21,15 @@
 
 ## Governance Policy
 
-**Scope:**
-**Autonomy boundaries:**
-**Escalation triggers:**
-**Audit cadence:**
-**Regulatory exposure (EU AI Act / other):**
+**Scope:** booking of rental vechicle Excludes: customer service requests
+
+**Autonomy boundaries:** customer service request are sent to customer service, auto. user can't find their rental, human approval required. rentals not available in their location, human approval required.
+
+**Escalation triggers:** 1. confidence is <70% on finding a rental at the location 2. confidence is <70% on finding a location 3. customer message is asking for help with a technical issue or loyalty question it gets flagged and sent to customer service 4. customer isn't able to find a location or a rental at location, a human will intervene
+
+**Audit cadence:** Weekly, review and updates golden dataset (product owner). Daily, provides report of customers who didn't find a location (product owner). Monthly, review systems issues and determine optimizations to put into place (product owner).
+
+**Regulatory exposure (EU AI Act / other):** GDPR, Canada and California data privacy. Risk tier: limited. Controls: only connect necessary PII to book a reservation. ask for consent to collect PII..
 
 ## Agent Topology
 <!-- If using agents: what can each agent do? What can't it do? Who approves what? -->
@@ -66,4 +70,7 @@ Dominant signal: Workflow gap.
 Recommended next step: Workflow gaps dominate, your users are stitching your product into multi-step pipelines. Strongest near-term move is partner integrations with the AI tools they already chain in.
 
 Sequence the Build column by frequency × strategic relevance. Confirm Partner candidates with the external tools' partnership teams. Re-run this audit each quarter, workarounds shift fast.
+
+
+_Not shipping agents this version._
 
