@@ -1,4 +1,4 @@
-# Enterprise.com IA Bot to book rental vechicles
+# Enterprise.com AI Bot to book rental vechicles
 
 > Some customers will prefer to use an AI agent to find and book the right rental vechicle for their needs.
 
