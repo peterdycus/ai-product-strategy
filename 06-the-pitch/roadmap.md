@@ -47,5 +47,7 @@
 *Your 3-sentence AI strategy from Module 1 vs. what you'd say now:*
 
 **M1 baseline:**
+Some customers will prefer to use an AI agent to find and book the right rental vechicle for their needs.
 
 **Now:**
+I would keep it the same. 
