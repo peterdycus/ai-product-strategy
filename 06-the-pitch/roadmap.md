@@ -17,8 +17,7 @@
 | Initiative | Metric | Confidence |
 |-----------|--------|-----------|
 |Add Loyalty member support
- |Loyalty members can book a rental vechile |  M  |
-| | | H / M / L |
+ |Loyalty members can book a rental vechile |  Confidence M  |
 
 ### Horizon 3 — Bet (9-18 months)
 *Moonshots. High uncertainty, high potential.*
@@ -26,7 +25,7 @@
 | Initiative | Metric | Confidence |
 |-----------|--------|-----------|
 | Add Customer service support for  booking and loyalty
-| Customer can request support about their booking or loyalty membership | L |
+| Customer can request support about their booking or loyalty membership | Confidence L |
 
 ## Board Pitch
 
