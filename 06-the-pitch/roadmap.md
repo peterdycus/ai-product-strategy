@@ -7,7 +7,8 @@
 
 | Initiative | Metric | Confidence |
 |-----------|--------|-----------|
-| | | H / M / L |
+| Build Core Booking Functionality
+| User can book a rental vechicle | H |
 | | | H / M / L |
 
 ### Horizon 2 — Next (3-9 months)
@@ -15,7 +16,8 @@
 
 | Initiative | Metric | Confidence |
 |-----------|--------|-----------|
-| | | H / M / L |
+|Add Loyalty member support
+ |Loyalty members can book a rental vechile |  M  |
 | | | H / M / L |
 
 ### Horizon 3 — Bet (9-18 months)
@@ -23,7 +25,8 @@
 
 | Initiative | Metric | Confidence |
 |-----------|--------|-----------|
-| | | H / M / L |
+| Add Customer service support for  booking and loyalty
+| Customer can request support about their booking or loyalty membership | L |
 
 ## Board Pitch
 
