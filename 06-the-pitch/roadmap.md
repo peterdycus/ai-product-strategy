@@ -8,8 +8,8 @@
 | Initiative | Metric | Confidence |
 |-----------|--------|-----------|
 | Build Core Booking Functionality
-| User can book a rental vechicle | H |
-| | | H / M / L |
+| User can book a rental vechicle 
+| Confidence H |
 
 ### Horizon 2 — Next (3-9 months)
 *Bets. Requires new capabilities or integrations.*
