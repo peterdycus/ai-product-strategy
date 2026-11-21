@@ -32,14 +32,14 @@
 **Thesis (1 sentence):**
 
 **The case:**
-1. Why now:
-2. What's defensible:
-3. The economics:
+1. Why now: Muse and other LLM can do it now and we need to have our own AI booking bot. 
+2. What's defensible: LLMs and competitors can create an AI booking bot but we have proprietary data (our vechicles and related data that they don't have. 
+3. The economics: It's free. Invest is low, revenue is high - Annual investment $3M compared to $25M revenue
 
 **The risks:**
-1. Trust / failure modes:
-2. Scale / governance:
-3. Competitive:
+1. Trust / failure modes: limiting the scope to booking rentals builds trust. Kill switch if bookings are under 20% 
+2. Scale / governance: <50% confidence goes to a human. 70% confidence soften language and ask more questions, 80%> AI continues 
+3. Competitive: LLM and competitors have the tools and tech now to book rentals. 
 
 **The ask:**
 
